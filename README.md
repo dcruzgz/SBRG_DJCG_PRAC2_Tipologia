@@ -4,7 +4,11 @@
 
 Este repositorio ha sido creado con la finalidad de albergar un estudio sobre un dataset así como el archivo que contiene los datos del mismo como respuesta al enunciado de la PRAC2 de la asignatura Tipología y ciclo de vida de los datos del Máster en Ciencias de Dataos de la UOC.
 
-En concreto se trata del análisis exploratorio, contraste de hipótesis y creación de modelos predictivos a partir de un conjunto de datos sobre pacientes que han sufrido ataques cardíacos y un grupo control. Conocer los factores de riesgo y los valores por los cuales podemos anticipar un posible infarto puede ayudar a salvar vidas. Este dataset contiene los datos referidos a personas que han sufrido un infarto y sujetos de control con parámetros sanos. 
+En concreto se trata del análisis exploratorio, contraste de hipótesis y creación de modelos predictivos a partir de un conjunto de datos sobre pacientes que han sufrido ataques cardíacos y un grupo control. 
+
+Hemos escogido realizar el estudio sobre estos datos porque conocer los factores de riesgo y los valores por los cuales podemos anticipar un posible infarto puede ayudar a salvar vidas. Además, sabemos por los datos estudiados de los últimos años que las enfermedades cardíacas causan la mayoría de las muertes en todo el mundo, tanto en el caso de hombres como de mujeres. Así que tendremos que seguir avanzando en el análisis de este tipo de información para mejorar la salud de los humanos. 
+
+El dataset que aquí estudiamos contiene los datos referidos a personas que han sufrido un infarto y sujetos de control con parámetros sanos. 
 
 El archivo ha sido descargado del siguiente enlace:
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
