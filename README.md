@@ -19,8 +19,8 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
   <br>Daniel Jesús Cruz Garzón </i> 
 </div>
 <div><br><b>En el repositorio se encuentran los archivos:</b>
- <br>- heart.csv -> dataset usado para el desarrollo de la práctica.
-<br>- prac2_Memoria.pdf -> con la memoria de la prácticas
-<br>- ARCHIVO.rmd -> con el código usado como solución de la práctica
+ <br>- Codigo y Datos/ heart.csv -> dataset usado para el desarrollo de la práctica.
+ <br>- Codigo y Datos/ ARCHIVO.rmd -> con el código usado como solución de la práctica
+<br>- PRAC2_Memoria.pdf -> con la memoria resumen con los resultados de la prácticas (20 pág)
 <br>- README.md -> con la información del repositorio.
 </div>
