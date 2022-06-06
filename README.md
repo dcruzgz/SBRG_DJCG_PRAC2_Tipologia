@@ -20,7 +20,8 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 </div>
 <div><br><b>En el repositorio se encuentran los archivos:</b>
  <br>- Codigo y Datos/ heart.csv -> dataset usado para el desarrollo de la práctica.
- <br>- Codigo y Datos/ ARCHIVO.rmd -> con el código usado como solución de la práctica
+ <br>- Codigo y Datos/ PRAC2.rmd -> con el código usado como solución de la práctica
 <br>- PRAC2_Memoria.pdf -> con la memoria resumen con los resultados de la prácticas (20 pág)
+ <br>- Informe_completo.pdf -> informe con la ejecución de todo el código y sus resultados  (42 pág)
 <br>- README.md -> con la información del repositorio.
 </div>
