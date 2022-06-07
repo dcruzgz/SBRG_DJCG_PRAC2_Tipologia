@@ -24,4 +24,5 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 <br>- PRAC2_Memoria.pdf -> con la memoria resumen con los resultados de la prácticas (20 pág)
  <br>- Informe_completo.pdf -> informe con la ejecución de todo el código y sus resultados  (42 pág)
 <br>- README.md -> con la información del repositorio.
+ <br>- Enlace del vídeo de la práctica https://drive.google.com/file/d/1CFcwZY8s5qNCExKPMkEzfsx7V_Crghmo/view?usp=sharing
 </div>
